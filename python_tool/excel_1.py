@@ -17,6 +17,6 @@ print(type(sheet))  # Worksheet
 print(sheet)
 print(sheet.title)  # name
 
-a_sheet = wb.get_active_sheet();
+a_sheet = wb.get_active_sheet()
 
 print(a_sheet.title)

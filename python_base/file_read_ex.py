@@ -73,8 +73,7 @@ else:
     print('The data file is missing!')
 
 
-
-#catch exception 指定异常
+# catch exception指定异常
 
 try:
     data = open('sketch.txt')
